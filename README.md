@@ -12,8 +12,6 @@ Hi, I'm Ifra 👋
 - Always open to meaningful conversations around tech, learning, and innovation ✨
 
 
-[![🏆 Trophy](https://github-profile-trophy.vercel.app/?username=Ifraskk11&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15)](https://github.com/Ifraskk11)
-
 <a target="_blank">
 <img align="right" src="girl pp 4.jpeg" width="300" style="border-radius: 100%; margin-left: 20px;" alt="Ifra">
  </a>
