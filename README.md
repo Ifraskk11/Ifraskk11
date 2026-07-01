@@ -4,8 +4,8 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm Kishan 👋  
-- A Software Engineer at **Wipro 💼**, passionate about building real-world tech solutions and solving complex problems 🧩  
+Hi, I'm Ifra 👋  
+- A CSE Student, passionate about building real-world tech solutions and solving complex problems 🧩  
 - I work across **Python, C++, and Embedded/Qt systems ⚙️**, and love turning ideas into practical products 🚀  
 - Beyond coding, I enjoy **sharing knowledge 🎙️**, creating content, and collaborating with fellow developers 🤝  
 - Always open to meaningful conversations around tech, learning, and innovation ✨
@@ -29,11 +29,9 @@ Hi, I'm Kishan 👋
 
 - 👯 I’m looking to collaborate on **development-focused projects**
 
-- 📝 I write technical blogs on **[Medium](https://kishan-rai99693.medium.com)**
-
 - 💬 Happy to discuss about **coding, projects, or learning paths**
 
-- 📫 Reach me at **kishan.rai99693@gmail.com**
+- 📫 Reach me at **ifraat110@gmail.com**
 
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 
@@ -42,14 +40,6 @@ Hi, I'm Kishan 👋
 <a target="_blank">
   <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
 </a>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [MLH Global Hack Week](https://kishan-rai99693.medium.com/mlh-global-hack-week-f26735cf8ba6?source=rss-798a94539838------2)
-- [Top 5 Games That Help You To Learn Coding](https://kishan-rai99693.medium.com/top-5-games-that-help-you-to-learn-coding-f17f2b4efc61?source=rss-798a94539838------2)
-- [50 Days of Consistency](https://kishan-rai99693.medium.com/50-days-of-consistency-d3400c208fb9?source=rss-798a94539838------2)
-- [Introduction To Artificial Intelligence](https://kishan-rai99693.medium.com/introduction-to-artificial-intelligence-ab5caa846752?source=rss-798a94539838------2)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
