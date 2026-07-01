@@ -1,6 +1,7 @@
 <h1 align="center">Hello Coders!! 👋</h1>
-
-![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
+<p align="center">
+  <img src="pp.2.jpeg" width="150" style="border-radius: 50%;" alt="Ifra">
+</p>
 
 ##  About Me
 
@@ -14,8 +15,8 @@ Hi, I'm Ifra 👋
 [![🏆 Trophy](https://github-profile-trophy.vercel.app/?username=Ifraskk11&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15)](https://github.com/Ifraskk11)
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
-</a>
+<img align="right" src="girl pp 4.jpeg" width="300" style="border-radius: 100%; margin-left: 20px;" alt="Ifra">
+ </a>
 
 - 🔭 I’m currently improving my **problem-solving skills**
 
@@ -30,15 +31,13 @@ Hi, I'm Ifra 👋
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **She/Her**
 
 - ⚡ Fun fact **I enjoy explaining complex things in simple ways**
-
 <a target="_blank">
-  <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
-</a>
+<img align="right" src="girl.1.jpeg" width="200" style="border-radius: 50%; margin-left: 20px;" alt="Ifra">
+ </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/Ifraskk11" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ifraskk11" height="30" width="40" />
   </a>
 
   <a href="https://www.linkedin.com/in/ifrashk" target="_blank">
@@ -65,4 +64,6 @@ Hi, I'm Ifra 👋
 
 </div>
 
-![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
+<p align="center">
+  <img src="pp.3.jpeg" width="100%" alt="Coding World">
+</p>
